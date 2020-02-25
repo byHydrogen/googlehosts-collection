@@ -1,0 +1,1 @@
+# googlehosts-collection
